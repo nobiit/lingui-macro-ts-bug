@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "jsx": "react"
+    },
+    "exclude": [
+      "node_modules"
+    ],
+    "include": [
+      "src/**/*.ts",
+      "src/**/*.tsx",
+      "tsconfig.json",
+    ]
+  }
+  
